@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github-directory-downloader", "github-directory-downloader\github-directory-downloader.csproj", "{DCACAF03-0A05-45AA-BBD7-0B54495C2B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCACAF03-0A05-45AA-BBD7-0B54495C2B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCACAF03-0A05-45AA-BBD7-0B54495C2B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCACAF03-0A05-45AA-BBD7-0B54495C2B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCACAF03-0A05-45AA-BBD7-0B54495C2B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDA95B5-A389-49AB-A80F-5233DE1BD783}
+	EndGlobalSection
+EndGlobal
